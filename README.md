@@ -1,2 +1,0 @@
-# Student-CGPA-Calculator
-Project
